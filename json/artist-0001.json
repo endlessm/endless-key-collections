@@ -85,10 +85,17 @@
         "aed0ad11eaeb4c75a4f93569492f3f7f",
         "d48bba63221b45b08eb5b7e85aa6d4c8"
       ]
+    },
+    {
+      "id": "f1ada7abc4194ff48a958337a31972c7",
+      "version": 4,
+      "include_node_ids": [
+        "61fec930f3da4377bc7526b58cef7261"
+      ]
     }
   ],
   "metadata": {
-    "title": "Artist",
+    "title": "Artist1",
     "subtitle": "0001",
     "description": "artist",
     "required_gigabytes": 1,
@@ -232,6 +239,10 @@
         ]
       },
       {
+        "node_id": "95ab27651d185060ae520775d813c27f",
+        "tags": []
+      },
+      {
         "node_id": "8e5de022aa23530f9dd5e8a144e3b1f1",
         "tags": [
           "skill"
@@ -288,6 +299,13 @@
         "tags": [
           "highlight",
           "skill"
+        ]
+      },
+      {
+        "node_id": "61fec930f3da4377bc7526b58cef7261",
+        "tags": [
+          "curious",
+          "highlight"
         ]
       }
     ]
