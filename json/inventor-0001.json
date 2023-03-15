@@ -75,6 +75,13 @@
         "27f2fa6f701140c4bcdcc7e0436f8ee0",
         "74d4bcc609ed4c15a809657901eda760"
       ]
+    },
+    {
+      "id": "f1ada7abc4194ff48a958337a31972c7",
+      "version": 4,
+      "include_node_ids": [
+        "2884f8e540694cfda74bf9724c9b45fc"
+      ]
     }
   ],
   "metadata": {
@@ -83,6 +90,19 @@
     "description": "inventor",
     "required_gigabytes": 1,
     "tagged_node_ids": [
+      {
+        "node_id": "a2c150919c365e82bbd0b478989f007c",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "b6d4ee8ed97d52408950f5abc6748f8e",
+        "tags": [
+          "curious"
+        ]
+      },
       {
         "node_id": "2c129c33d7ef4cbca5a7355de00ae1d8",
         "tags": [
@@ -226,6 +246,31 @@
         ]
       },
       {
+        "node_id": "af5917e62160523abdd56be392be1ec7",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "53ca407c2d8e4982884387f4f2dc305c",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "a5d9f056877b4b99a091df0c10d920ae",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "fe6f9b945d304470836bccee17a4e93d",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
         "node_id": "253556596d7a5a88a41ac25da6247b5e",
         "tags": [
           "skill"
@@ -235,6 +280,13 @@
         "node_id": "06bfc8b31c6a5cf4a4eabbfdb66fc123",
         "tags": [
           "skill"
+        ]
+      },
+      {
+        "node_id": "2884f8e540694cfda74bf9724c9b45fc",
+        "tags": [
+          "curious",
+          "highlight"
         ]
       }
     ]
