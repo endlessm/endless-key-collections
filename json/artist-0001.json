@@ -95,7 +95,7 @@
     }
   ],
   "metadata": {
-    "title": "Artist",
+    "title": "Artist1",
     "subtitle": "0001",
     "description": "artist",
     "required_gigabytes": 1,
@@ -290,6 +290,24 @@
         "tags": [
           "curious",
           "highlight"
+        ]
+      },
+      {
+        "node_id": "f061fce103ff5d4e9b8433e67802e666",
+        "tags": [
+          "featured-channel"
+        ]
+      },
+      {
+        "node_id": "057f871caa405ec29d62ba0523c193d7",
+        "tags": [
+          "featured-channel"
+        ]
+      },
+      {
+        "node_id": "97111903de564de49483a9705d41a8ac",
+        "tags": [
+          "featured-channel"
         ]
       }
     ]
