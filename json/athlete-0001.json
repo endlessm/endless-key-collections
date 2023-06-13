@@ -17,21 +17,6 @@
       ]
     },
     {
-      "id": "6ef7ae90af364778abb5f5f7855c5c27",
-      "version": 3,
-      "include_node_ids": [
-        "539f6cc554c548ba89bd660a16ead90a",
-        "6fe5e411935f4469a06c62a9f47a976c",
-        "89249e9a3408452ca2273ae7a7105c93",
-        "e0edc0747b704827a4b3670b0b14efeb",
-        "a387c98020df4c02b06934e5c1d8a0b9",
-        "92a606154c0a413d9e9847c896484b14",
-        "1bf13400a8d248f1bc8cd0802eeabcce",
-        "d10e5ec709fc4922848f7dc0c8385562",
-        "396ddc38690c4daeac46a080dd0c1b24"
-      ]
-    },
-    {
       "id": "3fcffebc58d15175b948b140434ef6e6",
       "version": 10,
       "include_node_ids": [
@@ -92,6 +77,13 @@
       "version": 4,
       "include_node_ids": [
         "ab584322ebce42e4b0be9deab5adaae6"
+      ]
+    },
+    {
+      "id": "bf0260ed911f44cda27a263db93a8512",
+      "version": 4,
+      "include_node_ids": [
+        "bf0260ed911f44cda27a263db93a8512"
       ]
     }
   ],
@@ -162,30 +154,6 @@
         "node_id": "1c9bd649682e5452a3d1ae323bb48754",
         "tags": [
           "skill"
-        ]
-      },
-      {
-        "node_id": "e0edc0747b704827a4b3670b0b14efeb",
-        "tags": [
-          "curious"
-        ]
-      },
-      {
-        "node_id": "a387c98020df4c02b06934e5c1d8a0b9",
-        "tags": [
-          "curious"
-        ]
-      },
-      {
-        "node_id": "92a606154c0a413d9e9847c896484b14",
-        "tags": [
-          "curious"
-        ]
-      },
-      {
-        "node_id": "396ddc38690c4daeac46a080dd0c1b24",
-        "tags": [
-          "curious"
         ]
       },
       {
@@ -338,12 +306,6 @@
         ]
       },
       {
-        "node_id": "6ef7ae90af364778abb5f5f7855c5c27",
-        "tags": [
-          "featured-channel"
-        ]
-      },
-      {
         "node_id": "f5f6729f95b55753badeaa066fa6e986",
         "tags": [
           "featured-channel"
@@ -351,6 +313,12 @@
       },
       {
         "node_id": "3fcffebc58d15175b948b140434ef6e6",
+        "tags": [
+          "featured-channel"
+        ]
+      },
+      {
+        "node_id": "bf0260ed911f44cda27a263db93a8512",
         "tags": [
           "featured-channel"
         ]
