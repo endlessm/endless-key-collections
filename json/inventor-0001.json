@@ -71,6 +71,13 @@
       "include_node_ids": [
         "2884f8e540694cfda74bf9724c9b45fc"
       ]
+    },
+    {
+      "id": "ed519e3b798147569b46cb550dbfc373",
+      "version": 1,
+      "include_node_ids": [
+        "137dcf401ad34f5e8285f81e88013b18"
+      ]
     }
   ],
   "metadata": {
@@ -208,6 +215,18 @@
       },
       {
         "node_id": "f1ada7abc4194ff48a958337a31972c7",
+        "tags": [
+          "featured-channel"
+        ]
+      },
+      {
+        "node_id": "137dcf401ad34f5e8285f81e88013b18",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "ed519e3b798147569b46cb550dbfc373",
         "tags": [
           "featured-channel"
         ]
