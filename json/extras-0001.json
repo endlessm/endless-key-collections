@@ -158,6 +158,13 @@
       "include_node_ids": [
         "4e413158eac55422a5343af9fcfa8d59"
       ]
+    },
+    {
+      "id": "eb4373b5da054c07879d0c969dc1976a",
+      "version": 7,
+      "include_node_ids": [
+        "eb4373b5da054c07879d0c969dc1976a"
+      ]
     }
   ],
   "metadata": {
@@ -192,6 +199,12 @@
       },
       {
         "node_id": "608fd926be60462aba2feccba6c050c9",
+        "tags": [
+          "featured-channel"
+        ]
+      },
+      {
+        "node_id": "eb4373b5da054c07879d0c969dc1976a",
         "tags": [
           "featured-channel"
         ]
