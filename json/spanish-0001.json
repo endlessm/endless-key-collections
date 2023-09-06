@@ -1,0 +1,255 @@
+{
+  "channels": [
+    {
+      "id": "359e048230974c8f80db1a95dc80d544",
+      "version": 3,
+      "include_node_ids": [
+        "2828e49a886f4a74ac2f72ef61d1ec2d",
+        "42df742f6d7a451d9a559074a7b86ea4",
+        "bc2aa93630f24f70b5f4172ebf01c043",
+        "0100534de8754d46ac4f623b10447b8c"
+      ]
+    },
+    {
+      "id": "ee52db4a62a94e9683599af8782f2d03",
+      "version": 3,
+      "include_node_ids": [
+        "36c473e69f834004a9ce84b5457df6fb",
+        "6f9704f501484f9e94c929fa954e872d"
+      ]
+    },
+    {
+      "id": "8fa678af1dd05329bf3218c549b84996",
+      "version": 1,
+      "include_node_ids": [
+        "af0b4ce12ae450f0af5cc4eec7363712",
+        "99eca181a2145778a596b0f4266ce230",
+        "e49f3e84ebad59c4ab0b83b79e936e00",
+        "9d615c1a28a4585d9be909fc41c2050f",
+        "ebb18774eb635c3ea8d56d30191ee0f0",
+        "fb1f2ad447f3527e8a7268b221394c42",
+        "fe9503d363005505a66ed3e33f20f894",
+        "fea7c79233125e77afcad64d942cab96",
+        "047abb2a81a8507bb1dd5995a0fe2776"
+      ]
+    },
+    {
+      "id": "b6a8886278aa45a3a40c2e0ae5358115",
+      "version": 1,
+      "include_node_ids": [
+        "8424e98e701a46a191bad24b8060c6c9"
+      ]
+    },
+    {
+      "id": "30c71c99c42c57d181e8aeafd2e15e5f",
+      "version": 17,
+      "include_node_ids": [
+        "89fb0079199659ad8c08a81cfcdb7d78",
+        "79691b24515d54d7bc2291fda1d23be7",
+        "996a67e5b90953df82e048b195d930bb"
+      ]
+    },
+    {
+      "id": "b06dd546e8ba4b44bf921862c9948ffe",
+      "version": 33,
+      "include_node_ids": [
+        "b06dd546e8ba4b44bf921862c9948ffe"
+      ]
+    },
+    {
+      "id": "4b2f3f35debe4fbe96b77558a3364675",
+      "version": 1,
+      "include_node_ids": [
+        "825a48a2d2624254b3465c1ea8ac7fb9",
+        "c3bf9b5a39c04e69bce655ffab0248da",
+        "eae3704e731343f0be544142b1254f36"
+      ]
+    },
+    {
+      "id": "ed519e3b798147569b46cb550dbfc373",
+      "version": 1,
+      "include_node_ids": [
+        "046e82e3fe5a44f193ceae09aabc7d79"
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "Español",
+    "subtitle": "0001",
+    "description": "español",
+    "required_gigabytes": 2,
+    "tagged_node_ids": [
+      {
+        "node_id": "2828e49a886f4a74ac2f72ef61d1ec2d",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "42df742f6d7a451d9a559074a7b86ea4",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "bc2aa93630f24f70b5f4172ebf01c043",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "0100534de8754d46ac4f623b10447b8c",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "359e048230974c8f80db1a95dc80d544",
+        "tags": [
+          "featured-channel"
+        ]
+      },
+      {
+        "node_id": "36c473e69f834004a9ce84b5457df6fb",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "6f9704f501484f9e94c929fa954e872d",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "ee52db4a62a94e9683599af8782f2d03",
+        "tags": [
+          "featured-channel"
+        ]
+      },
+      {
+        "node_id": "af0b4ce12ae450f0af5cc4eec7363712",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "99eca181a2145778a596b0f4266ce230",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "e49f3e84ebad59c4ab0b83b79e936e00",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "9d615c1a28a4585d9be909fc41c2050f",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "ebb18774eb635c3ea8d56d30191ee0f0",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "fb1f2ad447f3527e8a7268b221394c42",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "fe9503d363005505a66ed3e33f20f894",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "fea7c79233125e77afcad64d942cab96",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "047abb2a81a8507bb1dd5995a0fe2776",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "8424e98e701a46a191bad24b8060c6c9",
+        "tags": [
+          "highlight",
+          "skill"
+        ]
+      },
+      {
+        "node_id": "89fb0079199659ad8c08a81cfcdb7d78",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "79691b24515d54d7bc2291fda1d23be7",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "30c71c99c42c57d181e8aeafd2e15e5f",
+        "tags": [
+          "featured-channel"
+        ]
+      },
+      {
+        "node_id": "996a67e5b90953df82e048b195d930bb",
+        "tags": [
+          "highlight",
+          "skill"
+        ]
+      },
+      {
+        "node_id": "b06dd546e8ba4b44bf921862c9948ffe",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "825a48a2d2624254b3465c1ea8ac7fb9",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "c3bf9b5a39c04e69bce655ffab0248da",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "eae3704e731343f0be544142b1254f36",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "046e82e3fe5a44f193ceae09aabc7d79",
+        "tags": [
+          "skill"
+        ]
+      }
+    ]
+  },
+  "channel_list_hash": ""
+}
