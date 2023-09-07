@@ -2,10 +2,9 @@ name: Release
 
 on:
   push:
-    # This branch pattern needs to be allowed in the environment
-    # protection rules.
     tags:
       - v*
+  workflow_dispatch:
 
 jobs:
   release:
