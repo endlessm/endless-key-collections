@@ -19,21 +19,6 @@
       ]
     },
     {
-      "id": "8fa678af1dd05329bf3218c549b84996",
-      "version": 1,
-      "include_node_ids": [
-        "af0b4ce12ae450f0af5cc4eec7363712",
-        "99eca181a2145778a596b0f4266ce230",
-        "e49f3e84ebad59c4ab0b83b79e936e00",
-        "9d615c1a28a4585d9be909fc41c2050f",
-        "ebb18774eb635c3ea8d56d30191ee0f0",
-        "fb1f2ad447f3527e8a7268b221394c42",
-        "fe9503d363005505a66ed3e33f20f894",
-        "fea7c79233125e77afcad64d942cab96",
-        "047abb2a81a8507bb1dd5995a0fe2776"
-      ]
-    },
-    {
       "id": "b6a8886278aa45a3a40c2e0ae5358115",
       "version": 1,
       "include_node_ids": [
@@ -74,9 +59,9 @@
     }
   ],
   "metadata": {
-    "title": "Español",
+    "title": "espanol",
     "subtitle": "0001",
-    "description": "español",
+    "description": "espanol",
     "required_gigabytes": 2,
     "tagged_node_ids": [
       {
@@ -131,60 +116,6 @@
         "node_id": "ee52db4a62a94e9683599af8782f2d03",
         "tags": [
           "featured-channel"
-        ]
-      },
-      {
-        "node_id": "af0b4ce12ae450f0af5cc4eec7363712",
-        "tags": [
-          "curious"
-        ]
-      },
-      {
-        "node_id": "99eca181a2145778a596b0f4266ce230",
-        "tags": [
-          "curious"
-        ]
-      },
-      {
-        "node_id": "e49f3e84ebad59c4ab0b83b79e936e00",
-        "tags": [
-          "curious"
-        ]
-      },
-      {
-        "node_id": "9d615c1a28a4585d9be909fc41c2050f",
-        "tags": [
-          "curious"
-        ]
-      },
-      {
-        "node_id": "ebb18774eb635c3ea8d56d30191ee0f0",
-        "tags": [
-          "curious"
-        ]
-      },
-      {
-        "node_id": "fb1f2ad447f3527e8a7268b221394c42",
-        "tags": [
-          "curious"
-        ]
-      },
-      {
-        "node_id": "fe9503d363005505a66ed3e33f20f894",
-        "tags": [
-          "curious"
-        ]
-      },
-      {
-        "node_id": "fea7c79233125e77afcad64d942cab96",
-        "tags": [
-          "curious"
-        ]
-      },
-      {
-        "node_id": "047abb2a81a8507bb1dd5995a0fe2776",
-        "tags": [
-          "curious"
         ]
       },
       {
