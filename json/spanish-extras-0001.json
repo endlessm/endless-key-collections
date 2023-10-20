@@ -1,0 +1,79 @@
+{
+  "channels": [
+    {
+      "id": "fed29d60e4d84a1e8dcfc781d920b40e",
+      "version": 4,
+      "include_node_ids": [
+        "904e95f813f5458fb36d3e847cf3b55e",
+        "9006353b891949b0b91df0316275dbda",
+        "edbe2890609d49a6b0cda3f2b1767253",
+        "89fe2f86ee3f4fbaa7fb2bf9bd56d088"
+      ]
+    },
+    {
+      "id": "c984c3f6cec55ecc997769213e5a855d",
+      "version": 6,
+      "include_node_ids": [
+        "fd12ab1c5aa25551b5e4094285aa4c30",
+        "928a270898835b9b998df98f280faa4a",
+        "d982349bbb1f5f008388bf4a049e63eb"
+      ]
+    },
+    {
+      "id": "1c98e92b8c2f536796960bed8d137a25",
+      "version": 1,
+      "include_node_ids": [
+        "42dacef4d34157bca61bb3e422211e31"
+      ]
+    },
+    {
+      "id": "07cd1633691b4473b6fda08caf826253",
+      "version": 1,
+      "include_node_ids": [
+        "ce9094a57cef54dda450077f2ca93d70",
+        "9d209180cefb5eab8a4d37a486a3a700",
+        "09c033218760528a90e20749ab57736b",
+        "c4c6cdca4e32581aac166cfa82a0b782",
+        "aa0129e1f3d75aae9d3e910407310142"
+      ]
+    },
+    {
+      "id": "f446655247a95c0aa94ca9fa4d66783b",
+      "version": 1,
+      "include_node_ids": [
+        "f90ac1f9bbb2587f9dfc1b87b803abdd",
+        "27a940afa61454e880b3f4fe53ccbe9d"
+      ]
+    },
+    {
+      "id": "c4ad70f67dff57738591086e466f9afc",
+      "version": 1,
+      "include_node_ids": [
+        "c4ad70f67dff57738591086e466f9afc"
+      ]
+    },
+    {
+      "id": "30c71c99c42c57d181e8aeafd2e15e5f",
+      "version": 17,
+      "include_node_ids": [
+        "9d57d2f14c1d571c80204a7af9747942",
+        "e2658af1fa6a57c9980b923ec0723cb0"
+      ]
+    },
+    {
+      "id": "b06dd546e8ba4b44bf921862c9948ffe",
+      "version": 34,
+      "include_node_ids": [
+        "b06dd546e8ba4b44bf921862c9948ffe"
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "spanish_extras",
+    "subtitle": "0001",
+    "description": "spanish_extras",
+    "required_gigabytes": 8,
+    "tagged_node_ids": []
+  },
+  "channel_list_hash": ""
+}
