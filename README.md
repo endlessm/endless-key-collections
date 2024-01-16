@@ -20,25 +20,29 @@ content packs to be added which build on the same topic:
 - inventor-0001.json
 - scientist-0001.json
 
-In the Endless Key app, the user chooses a single starter pack. This affects
-what content is installed when the user chooses the starter pack. In addition,
-the app installs the metadata for all of the channels listed in each English
-language content pack.
+Each starter pack specifies a list of Kolibri channels and content nodes
+inside those channels.
 
-In addition, there are two "extras" collections:
+In the Endless Key app, the user chooses a single starter pack. It will then
+install all of the content described in that starter pack, as well as metadata
+from the remaining English language content collections. Next, the app will
+applies external content tags which are specified in selected starter pack.
+These tags are used for curated content discovery in the app.
+
+In addition to the starter packs, there are two "extras" collections:
 
 - extras-0001.json
 - extras-preload-0001.json
 
-These collections, combined with the starter packs, describe what we consider
-the complete Endless Key content library.
+These collections, combined with the starter packs, represent the complete
+Endless Key content library.
 
 The `extras-0001.json` collection lists only channel IDs, and no content
-nodes. This collection is imported when the user chooses a starter pack to
-download in the Endless Key app. Importing it means that the app will retrieve
-metadata for any channels listed in the collection, but no actual content.
-This makes it easier for the user to choose individual pieces of content in
-the future.
+nodes. When the user chooses a starter pack in the Endless Key app, this
+collection is imported along with the metadata for remaining starter packs.
+Importing it means that the app will retrieve metadata for any channels listed
+in the collection, but no actual content. Having this metadata makes it easier
+for the user to choose individual pieces of content in the future.
 
 The `extras-preload-0001.json` lists both channel IDs *and* a selection of
 content nodes inside those channels. This collection is intended for
@@ -71,9 +75,9 @@ should be applied by a separate command in
 To work around this, we can use [`jq`](https://github.com/jqlang/jq) to parse
 the manifest files externally.
 
-To import a content collection completely, try the following set of commands,
-replacing "artist-0001.json" with the path to the content collection you wish
-to import:
+To import a content collection in the same way as the Endless Key app, try the
+following set of commands, replacing "artist-0001.json" with the path to the
+content collection you wish to import:
 
 ```sh
 COLLECTION_FILE=artist-0001.json
